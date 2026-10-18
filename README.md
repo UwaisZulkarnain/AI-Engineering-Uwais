@@ -8,7 +8,7 @@
 
 Since July 2025, a domestic TNB bill combines energy, capacity, network and retail charges, service tax, and an Automatic Fuel Adjustment (AFA) that changes every month. On top of that, relief thresholds change at short notice. When a bill rises, households cannot easily tell whether the cause is usage, the AFA, or crossing a threshold.
 
-General chatbots go out of date and can get the arithmetic wrong, while calculators give a number without explaining it. WaTT combines retrieval over dated official documents with a deterministic calculator, so it can explain the change correctly and show its working.
+General chatbots go out of date and can get the arithmetic wrong, while calculators give a number without explaining it. WaTT combines retrieval over dated official documents with a deterministic calculator, so it can explain the change correctly and show its working. The AI handles what rules cannot: free form questions in BM, English or a mix of both, matched to the right rule for the right billing month.
 
 ## Evidence of the Problem
 
